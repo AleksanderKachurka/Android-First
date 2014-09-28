@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="add_entry">Add a contact</string>
+    <string name="list_entries">List contacts</string>
+    <string name="name_hint">Name</string>
+    <string name="telephone_hint">Telephone</string>
+    <string name="main_text">Add contact</string>
+    <string name="empty_name_toast">Check the name field</string>
+    <string name="empty_telephone_toast">Check the telephone field</string>
+    <string name="entry_added_toast">The contact has been added successfully</string>
+    <string name="second_top">Click on a name to call</string>
+
+</resources>
